@@ -11,18 +11,18 @@
 "app_secret": "ebb22707fa286ce013e71b7118cc04d3",
 
 "template_id": "J5gy5p-oElqSS2pOFOQv0QjU1ed4k57ujzfzDVIwt7U",
-"user_id": ["os4O46Djd20qkqH0n8OORzB1fcYs"],
-#"user_id": ["os4O46L29WgpwsXpD5253hkyNrgY" , "请替换为自己的 微信号 02"],
+"user_id": ["os4O46L29WgpwsXpD5253hkyNrgY"],
+#"user_id": ["os4O46L29WgpwsXpD5253hkyNrgY" , "os4O46Djd20qkqH0n8OORzB1fcYs"],
 
 "C_ShengFen": "陕西",
 "C_ChengShi": "西安",
 "S_XingZuo": "处女座",
 
-"S_Love": "2020-01-01",
-"birthday1": "2001-01-01",
+"S_Love": "2021-04-22",
+"birthday1": "2001-07-02",
 "birthday2": "1999-01-01",
 
-"C_String01": "可以替换为自己想要的文字 01",
+"C_String01": "蓝田日暖玉生烟",
 "C_String02": "可以替换为自己想要的文字 02",
 "C_String03": "可以替换为自己想要的文字 03",
 
