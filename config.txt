@@ -14,9 +14,9 @@
 "user_id": ["os4O46L29WgpwsXpD5253hkyNrgY"],
 #"user_id": ["os4O46L29WgpwsXpD5253hkyNrgY" , "os4O46Djd20qkqH0n8OORzB1fcYs"],
 
-"C_ShengFen": "陕西",
-"C_ChengShi": "西安",
-"S_XingZuo": "处女座",
+"C_ShengFen": "河南",
+"C_ChengShi": "三门峡",
+"S_XingZuo": "巨蟹座",
 
 "S_Love": "2021-04-22",
 "birthday1": "2001-07-02",
